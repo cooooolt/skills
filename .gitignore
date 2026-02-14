@@ -1,0 +1,39 @@
+# macOS System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# macOS Directory Attributes
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Zed Editor
+.zed/
+
+# General Editors/IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Backup Files
+*.bak
+*.backup
+*.tmp
+*.temp
+
+# Log Files
+*.log
+
+# Windows System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
